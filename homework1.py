@@ -1,0 +1,1 @@
+print('Dear teacher, I congratulate you on Easter. I wish you a peaceful sky and a good mood')
